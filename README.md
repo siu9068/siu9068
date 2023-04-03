@@ -80,7 +80,7 @@
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=DataGrip&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black"/>
 
 - 파이어베이스 활용한 모바일 또는 웹 FCM 토큰 활용
-- IDE 인텔리제이 사용 (사실 벳지 달고싶어서 넣어봄)
+- IDE 인텔리제![goodpharm_project.png](img%2Fgoodpharm_project.png)이 사용 (사실 벳지 달고싶어서 넣어봄)
 <hr/>
 
 ### **_확인가능한 결과물_**
@@ -100,5 +100,5 @@
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=black"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 <hr/>
 
-### **_Private 작업물_**
-![goodpharm_project.png](..%2F..%2F..%2FDesktop%2Fgoodpharm_project.png)
+### **_Private img_**
+![goodpharm_project.png](img%2Fgoodpharm_project.png)
