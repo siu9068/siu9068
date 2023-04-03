@@ -17,7 +17,7 @@
 #### BackEnd  
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/SrpingBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/JPA(ORM)-59666C?style=flat&logo=Hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=flat&logo=Apache Maven&logoColor=white"/>
 
-  - 스프링시큐리티와 JWT를 사용한 보안 강화
+  - 스프링시큐리티와 JWT를 활용한 보안 강화
   - RESTful API 개발
   - SSL 발급 및 적용
   - Swagger를 활용한 엔드포인트 문서 작성
