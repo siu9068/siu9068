@@ -80,7 +80,7 @@
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=DataGrip&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black"/>
 
 - 파이어베이스 활용한 모바일 또는 웹 FCM 토큰 활용
-- IDE 인텔리제![goodpharm_project.png](img%2Fgoodpharm_project.png)이 사용 (사실 벳지 달고싶어서 넣어봄)
+- IDE 인텔리제이 사용 (사실 벳지 달고싶어서 넣어봄)
 <hr/>
 
 ### **_확인가능한 결과물_**
