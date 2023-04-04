@@ -22,7 +22,7 @@
   - JPA를 활용한 ORM 사용 및 객체지향 모델링
   - MQ를 활용한 이기종간 통신
   - 데이터 수집을 위한 크롤링 서비스
-  - Canvas를 활용한 사용자별 도장이미지 생성
+  - Grapics2D를 활용한 사용자별 도장이미지 생성
   - 지속적인 반복 작업을 위한 스케줄링
   - 이중화 된 서버에서 중복 스케줄링 방지
   - 스케일아웃 대비 통합로깅
@@ -94,8 +94,8 @@
 <hr/>
 
 ### **_포트폴리오_**
-노션  
-https://ribbon-bell-634.notion.site/8c50a82182664bdca1efdbc087b8afdd
+- 노션  
+  - https://ribbon-bell-634.notion.site/8c50a82182664bdca1efdbc087b8afdd
 <hr/>
 
 ### **_협업_**
