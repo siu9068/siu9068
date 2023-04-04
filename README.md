@@ -94,6 +94,8 @@
 <hr/>
 
 ### **_포트폴리오_**
+노션  
+https://ribbon-bell-634.notion.site/8c50a82182664bdca1efdbc087b8afdd
 <hr/>
 
 ### **_협업_**
