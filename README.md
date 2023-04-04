@@ -28,7 +28,7 @@
   - 스케일아웃 대비 통합로깅
 
 #### Infra  
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat&logo=OpenSearch&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat&logo=Flyway&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=black"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat&logo=OpenSearch&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat&logo=Flyway&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=black"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black"/>
 
 - 개발환경 구성 및 세팅
 - 쉘 스크립트 작성
@@ -37,12 +37,14 @@
 - 캐시서버 구축 및 활용
 - FLYWAY 를 활용한 DDL,DML 이력관리
 - 외부인 접근가능 SFTP 환경 구축 (계정, 권한, 경로 이동 금지)
+- 파이어베이스를 활용한 모바일 또는 웹 FCM 토큰 활용
 
 #### DevOps  
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 
 - 젠킨스 서비스 구축
-- 젠킨스, 깃, EB를 활용한 데브/마스터 브랜치별 푸쉬 -> 무중단 배포
+- 젠킨스, 깃, EB를 활용한 데브/마스터 브랜치별 푸쉬 배포 자동화
+- EB 설정을 통한 무중단 배포 및 인스턴스 컨트롤
 - 도메인 호스팅 서비스 (가비아)
 - 백지상태에서 서비스 구축 배포 가능
 - AWS 각종 서비스 사용경험
@@ -76,10 +78,10 @@
 - JavaScript를 활용한 이벤트
 
 
-#### ETC  
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=DataGrip&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black"/>
+#### ETC
+<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=DataGrip&logoColor=white"/>
 
-- 파이어베이스 활용한 모바일 또는 웹 FCM 토큰 활용
+- MacOS 선호
 - IDE 인텔리제이 사용 (사실 벳지 달고싶어서 넣어봄)
 <hr/>
 
@@ -98,7 +100,7 @@
   - https://ribbon-bell-634.notion.site/8c50a82182664bdca1efdbc087b8afdd
 <hr/>
 
-### **_협업_**
+### **_소통_**
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=black"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 <hr/>
 
