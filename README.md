@@ -72,7 +72,7 @@
 #### Front
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
 
-- HTML,CSS 사용 경험
+- HTML,CSS 컨트롤
 - JSP 템플릿을 활용한 MVC 패턴 SSR
 - Vue.js 사용, Vuex 를 활용한 상태관리 경험, axios를 활용한 API 호출
 - JavaScript를 활용한 이벤트
