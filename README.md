@@ -17,7 +17,7 @@
 
   - 스프링시큐리티와 JWT를 활용, 보안강화 된 권한관리 체계 STATELESS 하게 구축
   - RESTful API 개발
-  - SSL 발급 및 적용
+  - SSL 인증서 발급 및 적용
   - Swagger를 활용한 엔드포인트 문서 작성
   - JPA를 활용한 ORM 사용 및 객체지향 모델링
   - MQ를 활용한 이기종간 통신
@@ -66,7 +66,7 @@
 #### DBMS  
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 
-- oracle, mariadb, Altibase, Qubrid, Tibero 등 다수 DB 및 DBMS 사용경험
+- Oracle, MariaDB, Altibase, Qubrid, Tibero 등 다수 DB 및 DBMS 사용경험
 - 필요시 프로시저 작성 가능 (비선호)
 
 #### Front
@@ -74,7 +74,7 @@
 
 - HTML,CSS 사용 경험
 - JSP 템플릿을 활용한 MVC 패턴 SSR
-- Vue.js 사용, Vuex 를 활용한 상태관리 경험, axios를 활용한 API 호출
+- Vue.js 사용, Vuex 를 활용한 상태관리 경험, Axios를 활용한 API 호출
 - JavaScript를 활용한 이벤트
 
 
