@@ -33,7 +33,7 @@
 - 개발환경 구성 및 세팅
 - 쉘 스크립트 작성
 - 도커를 활용한 환경 세팅
-- DB 성능향상 및 검색엔진 사용을 위해 오픈서치 구축과 실시간 비정형 데이터 마이그레이션
+- DB 성능향상 및 검색엔진 사용을 위해 오픈서치 구축과 실시간 데이터 마이그레이션
 - 캐시서버 구축 및 활용
 - FLYWAY 를 활용한 DDL,DML 이력관리
 - 외부인 접근가능 SFTP 환경 구축 (계정, 권한, 경로 이동 금지)
@@ -72,7 +72,7 @@
 #### Front
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
 
-- HTML,CSS 사용 경험
+- HTML,CSS 컨트롤
 - JSP 템플릿을 활용한 MVC 패턴 SSR
 - Vue.js 사용, Vuex 를 활용한 상태관리 경험, Axios를 활용한 API 호출
 - JavaScript를 활용한 이벤트
