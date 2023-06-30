@@ -91,8 +91,9 @@
 - 애플 앱
   - https://apps.apple.com/app/id1616970174
 - 웹 앱
-  - https://www.admin-dev.goodpharm.kr/ (약국 관리 백오피스)
-  - https://www.pharm-dev.goodpharm.kr/ (약사전용 백오피스)
+  - https://www.admin-dev.goodpharm.kr/ (약국 관리 백오피스 개발서버)
+  - https://www.pharm-dev.goodpharm.kr/ (약사전용 백오피스 개발서버)
+  - https://www.pharm-mate-dev.goodpharm.kr/ (신규 약사전용 백오피스 개발중)
 <hr/>
 
 ### **_포트폴리오_**
