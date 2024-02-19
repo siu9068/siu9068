@@ -96,15 +96,16 @@
 - JetBrain사의 IDE 선호 (IntelliJ, WebStorm, Pycharm, Datagrip 등등)
 <hr/>
 
-### **_확인가능한 결과물_**
-- 안드로이드 앱
+### **_RESULT_**
+- Android
   - https://play.google.com/store/apps/details?id=kr.good.pharm.customer
-- 애플 앱
+- Ios
   - https://apps.apple.com/app/id1616970174
-- 웹 앱
-  - https://www.admin-dev.goodpharm.kr/ (약국 관리 백오피스 개발서버)
-  - https://www.pharm-dev.goodpharm.kr/ (약사전용 백오피스 개발서버)
+- Web
+  - https://www.admin.goodpharm.kr/ (Goodpharm Admin)
+  - https://www.pharm.goodpharm.kr/ (Goodpharm CRM)
   - https://artue.io/ (Artue Store)
+  - https://admin.artue.io/ (Artue Admin)
 <hr/>
 
 ### **_포트폴리오_**
