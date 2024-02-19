@@ -98,9 +98,9 @@
 
 ### **_RESULT_**
 - Android
-  - https://play.google.com/store/apps/details?id=kr.good.pharm.customer
+  - https://play.google.com/store/apps/details?id=kr.good.pharm.customer (Goodpharm)
 - Ios
-  - https://apps.apple.com/app/id1616970174
+  - https://apps.apple.com/app/id1616970174 (Goodpharm)
 - Web
   - https://www.admin.goodpharm.kr/ (Goodpharm Admin)
   - https://www.pharm.goodpharm.kr/ (Goodpharm CRM)
