@@ -90,7 +90,7 @@
 
 
 #### ETC
-<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/JetBrains-000000?style=flat&logo=JetBrains&logoColor=white"/> <img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=DataGrip&logoColor=white"/> 
+<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/JetBrains-000000?style=flat&logo=JetBrains&logoColor=white"/> 
 
 - MacOS 선호
 - JetBrain사의 IDE 선호 (IntelliJ, WebStorm, Pycharm, Datagrip 등등)
