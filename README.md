@@ -13,7 +13,7 @@
 
 ### **_개발스킬_**
 #### BackEnd (Springboot, NestJS)
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/SrpingBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/JPA(ORM)-59666C?style=flat&logo=Hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=flat&logo=Apache Maven&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/SrpingBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/JPA(ORM)-59666C?style=flat&logo=Hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=flat&logo=Apache Maven&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=OpenAI&logoColor=white"/>
 
   - 스프링시큐리티와 JWT를 활용, 보안강화 된 권한관리 체계 STATELESS 하게 구축
   - RESTful API 개발
@@ -28,6 +28,7 @@
   - 스케일아웃 대비 통합로깅
   - NestJS 프레임웍 활용
   - TypeORM 활용
+  - ChatGPT를 활용한 번역기 생성
 
 #### Infra  
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat&logo=OpenSearch&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat&logo=Flyway&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=black"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
@@ -67,10 +68,7 @@
   - Amazon MQ
   - Amazon SQS
   - Amazon OpenSearch
-  - Amazon CodeCommit
   - Amazon CodeBuild
-  - Amazon CodeDeploy
-  - Amazon CodePipeline
   - Amazon ECS
   - Amazon ECR
   - Database Migration Service
@@ -92,10 +90,10 @@
 
 
 #### ETC
-<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=DataGrip&logoColor=white"/>
+<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/JetBrains-000000?style=flat&logo=JetBrains&logoColor=white"/> <img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=DataGrip&logoColor=white"/> 
 
 - MacOS 선호
-- IDE 인텔리제이
+- JetBrain사의 IDE 선호 (IntelliJ, WebStorm, Pycharm, Datagrip 등등)
 <hr/>
 
 ### **_확인가능한 결과물_**
