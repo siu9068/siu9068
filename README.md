@@ -67,7 +67,10 @@
   - Amazon MQ
   - Amazon SQS
   - Amazon OpenSearch
+  - Amazon CodeCommit
   - Amazon CodeBuild
+  - Amazon CodeDeploy
+  - Amazon CodePipeline
   - Amazon ECS
   - Amazon ECR
   - Database Migration Service
