@@ -31,6 +31,7 @@
   - TypeORM 활용
   - ChatGPT를 활용한 LLM 모델 사용 API 개발
   - Serverless 프레임웍을 활용한 FastAPI 람다서버 구축
+  - Aws Cognito를 활용한 인증서버 구축
 
 #### Infra  
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat&logo=OpenSearch&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat&logo=Flyway&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=black"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
@@ -103,8 +104,10 @@
 ### **_RESULT_**
 - Android
   - https://play.google.com/store/apps/details?id=kr.good.pharm.customer (Goodpharm)
+  - https://play.google.com/store/apps/details?id=io.artue.ams (Artue)
 - iOS
   - https://apps.apple.com/app/id1616970174 (Goodpharm)
+  - https://apps.apple.com/kr/app/artue/id6463354545
 - Web
   - https://www.admin.goodpharm.kr/ (Goodpharm Admin)
   - https://www.pharm.goodpharm.kr/ (Goodpharm CRM)
