@@ -39,7 +39,7 @@
 - 개발환경 구성 및 세팅
 - 쉘 스크립트 작성
 - 파이썬을 활용한 스크립트 작성
-- 도커를 활용한 환경 세팅
+- 도커 컴포즈를 활용한 실시간 로컬 개발환경 구축
 - vpc private 네트워크환경 이용 제한을 고려한 Docker-compose + Kafka + Kafka-Connect DMS 로컬 환경구성 
 - DB 성능향상 및 검색엔진 사용을 위해 오픈서치 구축과 실시간 데이터 마이그레이션
 - elasticserach,opensearch 인덱스 및 맵핑 컨트롤
