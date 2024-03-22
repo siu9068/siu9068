@@ -82,7 +82,7 @@
 #### DBMS  
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/AmazonDynamoDB-4053D6?style=flat&logo=AmazonDynamoDB&logoColor=white"/>
 
-- Oracle, MariaDB, PostgreSQL, Altibase, Qubrid, Tibero, DynamoDB 등 다수 DB 및 DBMS 사용경험
+- Oracle, MariaDB, PostgreSQL, Altibase, Qubrid, Tibero, DynamoDB 등 다수 DB, NoSQL 사용경험
 - 필요시 프로시저 작성 가능 (비선호)
 
 #### Front
